@@ -5,9 +5,9 @@ using namespace std;
 int main () {
 	
 	
-	for (int k = 0; k < 5; k++) {
+	for (int m = 0; m < 10; m++) {
 		
-		cout << k << endl;
+		cout << m << endl;
 	}
 	
 	
