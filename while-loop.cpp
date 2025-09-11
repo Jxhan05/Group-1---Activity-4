@@ -3,10 +3,10 @@ using namespace std;
 
 int main () {
 	
-	int j = 10;
-	while ( j <= 20 ) {
-		cout << ", " << j;
-		j++;
+	int start = 1;
+	while ( start <= 5 ) {
+		cout << "Johan Valera" << start << endl;
+		start++;
 		
 	}
 	
