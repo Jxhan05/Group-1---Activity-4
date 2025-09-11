@@ -3,14 +3,10 @@ using namespace std;
 
 int main () {
 	
-	int v = 5;
-	do {
-		cout << ", " <<v ;
-		v++;
-	}
-		while (v <= 15);
-		
-		
-	
-	return 0;
+	int start = 1;
+    do { 
+    cout << "Johan Valera" << endl;
+    start++;
+    } while ( start < 5 );
+    return 0;
 }
